@@ -1,0 +1,8 @@
+{
+  "name": "weekly-sales-report",
+  "description": "구글시트 판매관리_2의 판매내역으로 지난주 주간 매출 리포트를 만들어 Slack에 올린다",
+  "version": "1.0.0",
+  "author": {
+    "name": "김서연"
+  }
+}
